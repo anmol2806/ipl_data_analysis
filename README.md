@@ -1,10 +1,12 @@
 # ipl_data_analysis
 I have analysed data of ipl using pandas and matplotlib
-there are 4 files and 1 folder 
+there are 5 files and 1 folder 
 1) dataset_analysis_assign.ipynb
 2) dataset_analysis_assign2.ipynb
 3) dataset_analysis_assign3.ipynb
-4) Ipl_2008_2020_analysis_only
+4) Ipl_2008_2020_analysis_only.ipynb
+5) Ipl_2008_2020_analysis_only.pdf
+
 
 
 1st file only contains data analysis
@@ -17,3 +19,7 @@ there are 4 files and 1 folder
 
 
 4th file contains best data analysis file
+
+
+
+5th file is the pdf of analysis
