@@ -9,17 +9,17 @@ there are 5 files and 1 folder
 
 
 
-1st file (dataset_analysis_assign.ipynb)  only contains data analysis
+1st file <b>(dataset_analysis_assign.ipynb) <b>  only contains data analysis
 
 
 2nd file <b>(dataset_analysis_assign2.ipynb) <b>conatins data analysis and some little bit of gui(tkinter)
 
 
-3rd file conatins data analysis and streamlit
+3rd file <b>(dataset_analysis_assign3.ipynb) <b>conatins data analysis and streamlit
 
 
-4th file contains best data analysis file
+4th file <b>(Ipl_2008_2020_analysis_only.ipynb) <b>contains best data analysis file
 
 
 
-5th file is the pdf of analysis
+5th file <b>(Ipl_2008_2020_analysis_only.pdf) <b> is the pdf of analysis
