@@ -9,10 +9,10 @@ there are 5 files and 1 folder
 
 
 
-1st file only contains data analysis
+1st file (dataset_analysis_assign.ipynb)  only contains data analysis
 
 
-2nd file conatins data analysis and some little bit of gui(tkinter)
+2nd file <b>(dataset_analysis_assign2.ipynb) <b>conatins data analysis and some little bit of gui(tkinter)
 
 
 3rd file conatins data analysis and streamlit
