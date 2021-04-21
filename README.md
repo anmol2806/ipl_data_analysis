@@ -23,3 +23,4 @@ there are 5 files and 1 folder
 
 
 5th file <b>(Ipl_2008_2020_analysis_only.pdf) </b> is the pdf of analysis
+<a href="https://github.com/anmol2806/ipl_data_analysis/blob/main/Ipl_2008_2020_analysis_only.pdf">PDF LINK</a>
